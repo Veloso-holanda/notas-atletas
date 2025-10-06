@@ -28,3 +28,33 @@ Para executar este projeto, você precisará ter o **Node.js** instalado em sua 
 
 ```bash
 node -v
+Se o comando retornar um número de versão (ex: `v20.11.0`), você está pronto. Caso contrário, baixe e instale o Node.js a partir do [site oficial](https://nodejs.org/).
+
+## 🚀 Como Executar o Projeto
+
+1.  Clone este repositório ou simplesmente salve o arquivo `.js` (ex: `notas-atletas.js`) em uma pasta no seu computador.
+2.  Abra um terminal na pasta onde você salvou o arquivo.
+3.  Execute o script com o seguinte comando:
+
+    ```bash
+    node notas-atletas.js
+    ```
+
+## 📝 Saída Esperada
+
+Após a execução do script, você verá a seguinte saída no seu terminal:
+Atleta: Cesar Abascal
+Notas Obtidas: 10,9.34,8.42,10,7.88
+Média Válida: 9.253333333333332
+
+Atleta: Fernando Puntel
+Notas Obtidas: 8,10,10,7,9.33
+Média Válida: 9.11
+
+Atleta: Daiane Jelinsky
+Notas Obtidas: 7,10,9.5,9.5,8
+Média Válida: 9
+
+Atleta: Bruno Castro
+Notas Obtidas: 10,10,10,9,9.5
+Média Válida: 9.833333333333334
