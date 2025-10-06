@@ -44,6 +44,7 @@ Se o comando retornar um número de versão (ex: `v20.11.0`), você está pronto
 ## 📝 Saída Esperada
 
 Após a execução do script, você verá a seguinte saída no seu terminal:
+```bash
 Atleta: Cesar Abascal
 Notas Obtidas: 10,9.34,8.42,10,7.88
 Média Válida: 9.253333333333332
@@ -59,3 +60,4 @@ Média Válida: 9
 Atleta: Bruno Castro
 Notas Obtidas: 10,10,10,9,9.5
 Média Válida: 9.833333333333334
+```
