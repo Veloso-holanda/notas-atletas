@@ -28,6 +28,7 @@ Para executar este projeto, você precisará ter o **Node.js** instalado em sua 
 
 ```bash
 node -v
+```
 Se o comando retornar um número de versão (ex: `v20.11.0`), você está pronto. Caso contrário, baixe e instale o Node.js a partir do [site oficial](https://nodejs.org/).
 
 ## 🚀 Como Executar o Projeto
