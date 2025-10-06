@@ -23,7 +23,7 @@ function calcularNotasAtletas(atletas) {
 
     let notasOrdenadas = atleta.notas.sort( (a, b) => b - a);
     let notasComputadas = notasOrdenadas.slice(1, 4);
-    
+
     let soma =0;
     notasComputadas.forEach(function(nota){
       soma += nota;
@@ -36,4 +36,4 @@ function calcularNotasAtletas(atletas) {
   };
 };
 
-console.log(calcularNotasAtletas(atletas));
+calcularNotasAtletas(atletas);
